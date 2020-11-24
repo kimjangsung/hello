@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubActivity2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="720dp"
+        android:text="두드림 심리상담센터\n1. 상담실 소개\n두드림심리상담센터는 근로복지넷으로 연계한 근로자 지원상담, 정보화진흥원에서 지원하는 인터넷과 몰입중독 상담, 범죄피해자 지원상담 및 한국교원 교직원에서 지원하는 상담을 무료로 진행할 수 있으며 상담실에서 개인상담, 가족상담을 함께 진행할 수 있고 모래놀이 치료실을 갖추고 있습니다."
+        android:textSize="30sp" />
+
+</LinearLayout>

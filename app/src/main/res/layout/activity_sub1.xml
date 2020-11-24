@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="720dp"
+        android:text="경남 금연지원센터\n1. 상담실 소개\n경남금연지원센터는 기존에 국가금연사업의 사각지대에 있었던 학교밖청소년, 여성, 대학생흡연자를 대상으로 찾아가는 금연지원서비스를 제공하여 금연을촉진하고, 중증, 고도흡연자를 대상으로금단현상이 발생하는 시기에 의료진과 함께하는 금연캠프를 운영하여 금연성공을 유도하고자 합니다. "
+        android:textSize="30sp"
+        />
+
+</LinearLayout>

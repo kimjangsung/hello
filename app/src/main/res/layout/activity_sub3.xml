@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubActivity3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="720dp"
+        android:text="미소인 상담센터\n1. 상담실 소개\n미소인 상담센터는 지역내에 위치하고 있으며, 아동에서 성인까지 정서적 어려움을 동반하고 있는 사람들과 함께하고 있습니다.\n2. 상담자 소개\n- 교육심리학박사\n- 진주여성민우회부설성폭력상담소소장(2004.2 ~ 2007.6)\n- 전문상담사1급(한국상담학회)\n- 범죄심리사1급(한국심리학회)"
+        android:textSize="30sp" />
+
+</LinearLayout>
